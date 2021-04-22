@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781236456125",
+    "project_id": "feel-the-pain",
+    "storage_bucket": "feel-the-pain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781236456125:android:90cb6d165388a57afe85d4",
+        "android_client_info": {
+          "package_name": "com.roshan.feelthepain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781236456125-2lss46k19ut2o26irvaagdqjkngh43s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roshan.feelthepain",
+            "certificate_hash": "41949d9c883882f85c4e9bb643fa01d91ed9738b"
+          }
+        },
+        {
+          "client_id": "781236456125-kq71d1iikbgvoc4lh0pbunfpdtvekev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrEZ6SGawSAl28qlCNDI6mdtGaaJEMZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781236456125-kq71d1iikbgvoc4lh0pbunfpdtvekev3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
